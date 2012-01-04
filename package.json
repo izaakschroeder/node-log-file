@@ -1,0 +1,7 @@
+{
+	"name": "file",
+	"version": "0.0.1",
+	"description": "A file based logging plugin.",
+	"author": "Izaak Schroeder",
+	"main": "file.js"
+}
